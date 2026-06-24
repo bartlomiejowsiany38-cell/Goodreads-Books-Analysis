@@ -1,4 +1,4 @@
-# Goodreads Books Dataset — SQL Exploratory Analysis
+# Goodreads Books Dataset - SQL Exploratory Analysis
 
 ## Overview
 An exploratory analysis of a Goodreads books dataset using SQL (via duckdb) to uncover patterns in ratings, page counts, author productivity, and book popularity. The project also identifies hidden gems (highly rated but low-visibility books) and overhyped titles (widely rated but underperforming on score).
